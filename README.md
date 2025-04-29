@@ -61,9 +61,6 @@ I enjoy working across the **Data analytics and Data Visualization** — from co
 
 ---
 
-📈 GitHub Stats
-![GnanaTeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgnanateja&show_icons=true&theme=radical)
-
 
 ## 🚀 Let's Collaborate
 
